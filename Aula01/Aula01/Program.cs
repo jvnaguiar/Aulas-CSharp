@@ -18,4 +18,4 @@ Console.WriteLine("Escreva seu nome");
 string nome = Console.ReadLine();
 Console.WriteLine($"Olá  {nome}, boa noite !!");
 
-Console.ReadKey();
+//Console.ReadKey();
